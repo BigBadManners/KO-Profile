@@ -6,23 +6,14 @@ A Python script to aggregate CSVs containing your KO data for Super Smash Bros. 
 As an example:
 
 Trash,Opponent,Move(How),Kill%(When),Where,W/L
-
 Banjo,Red(PT),Usmash,100,?,W
-
 ,,Fair,133,L,W
-
 ,,Utilt,145,?,W
-
 ,Claw(Inkling),Utilt,111,?,W
-
 ,,Usmash,127,?,W
-
 ,,Usmash,104,?,W
-
 ,,Usmash,117,?,W
-
 ,,SideB,72,L,W
-
 ,,Utilt,136,L,W\n
 
 1st row: The player's tag, and field names.
