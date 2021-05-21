@@ -1,19 +1,28 @@
 # KO-Profile
-A Python script to aggregate CSVs containing your KO data for Super Smash Bros. Melee/Ultimate.
+A Python script to aggregate CSVs containing your KO data for Super Smash Bros. Melee/Ultimate. Requires Matplot, Pandas, and Numpy.
 
 ## Setup
 
 As an example:
 
-Trash,Opponent,Move(How),Kill%(When),Where,W/L\n
-Banjo,Red(PT),Usmash,100,?,W\n
-,,Fair,133,L,W\n
-,,Utilt,145,?,W\n
-,Claw(Inkling),Utilt,111,?,W\n
-,,Usmash,127,?,W\n
-,,Usmash,104,?,W\n
-,,Usmash,117,?,W\n
-,,SideB,72,L,W\n
+Trash,Opponent,Move(How),Kill%(When),Where,W/L
+
+Banjo,Red(PT),Usmash,100,?,W
+
+,,Fair,133,L,W
+
+,,Utilt,145,?,W
+
+,Claw(Inkling),Utilt,111,?,W
+
+,,Usmash,127,?,W
+
+,,Usmash,104,?,W
+
+,,Usmash,117,?,W
+
+,,SideB,72,L,W
+
 ,,Utilt,136,L,W\n
 
 1st row: The player's tag, and field names.
