@@ -86,7 +86,7 @@ def main(argv):
         if opt == "-h":
             print("usage: killprofile -i <inputfile>")
             print("Input files MUST be formatted under the following fields: [PlayerName], Move(How),Kill%(When),Where,W/L.")
-            print("Leave empty fields lie, delimit with commas.")
+            print("Let empty fields lie, delimit with commas.")
             sys.exit()
         elif opt in ("-i","--ifile"):
             inputfile = arg
