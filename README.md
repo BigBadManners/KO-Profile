@@ -1,5 +1,11 @@
 # KO-Profile
-A Python script to aggregate CSVs containing your KO data for Super Smash Bros. Melee/Ultimate. Requires Matplot, Pandas, and Numpy.
+A Python 3.8 script to aggregate CSVs containing your KO data for Super Smash Bros. Melee/Ultimate. Requires Matplot, Pandas, and Numpy.
+
+# Usage
+
+python killprofile.py -i <input file>
+
+If python won't work from your terminal, you will have to add it to your system's environment variables.
 
 ## Setup - Example CSV
 
