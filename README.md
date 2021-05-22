@@ -31,6 +31,7 @@ Banjo,Red(PT),Usmash,100,?,W
 
 
 1st row: The player's tag, and field names.
+
 2nd row+: The player's character(s), their opponent, the move they KO'd with, the % before the KO move, where the opponent was K.O'd on the stage (L - Ledgetrap/Corner Pressure; E - Edgeguard/2-frame, ? - Elsewhere), and win/loss ratio.
 
 You may include all of your characters, but this might skew the results depending on how early each of your characters K.O.
